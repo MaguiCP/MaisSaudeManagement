@@ -1,8 +1,8 @@
 # "MaisSaude" Management System (Sistema de Gestão "MaisSaude")
 
-### Português
+## Português
 
-## Descrição
+### Descrição
 
 Este projeto é um sistema de gestão para a clínica "MaisSaude". Permite a execução de várias operações administrativas e clínicas, incluindo o registo de médicos, serviços e especialidades, além de consultas por especialidade. O sistema organiza diferentes menus para diferentes tipos de utilizadores, como assistentes administrativos, diretores clínicos e diretores gerais.
 
@@ -25,9 +25,9 @@ Este projeto é um sistema de gestão para a clínica "MaisSaude". Permite a exe
   - Especificar Tipo de Serviço.
   - Consultar Médicos por Especialidade.
 
-### English
+## English
 
-## Description
+### Description
 
 This project is a management system for the "MaisSaude" clinic. It allows the execution of various administrative and clinical operations, including the registration of doctors, services, and specialties, as well as consultations by specialty. The system organizes different menus for different types of users, such as administrative assistants, clinical directors, and general directors.
 
